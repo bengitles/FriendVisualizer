@@ -1,0 +1,5 @@
+Names: Ben Gitles and Drew Trager
+
+This section of our project just implements the FriendViewer. It takes in a tab-delineated text file
+(i.e. each line is a node, then a tab, then a node that it is connected to), parses that file, then
+creates a JavaScriptObject out of it so that it can be visualized in a web app.
